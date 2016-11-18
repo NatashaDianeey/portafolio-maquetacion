@@ -1,0 +1,20 @@
+@media (max-width: 768px) {
+	.bkgr-blue{
+	margin-top: 14%;
+  }
+  .margen-responsive-img{
+  	margin: 7% 0%
+  }
+  .flecha-link{
+  	margin-top: -10%;
+  }
+  .padding-left-bottom{
+  	margin-bottom: 5%
+  }
+  .marg{
+  	margin-top: -6%;
+  }
+  .marg-top-responsive{
+  	margin-top: 100%
+  }
+}
